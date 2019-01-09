@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = ""
+authors = ["jordan-smith <jordan.smith@verafin.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+ipykernel = "^5.1"
+jupyter_contrib_nbextensions = "^0.5.1"
+RISE = "^5.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"

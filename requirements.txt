@@ -62,7 +62,6 @@ PyPDF2==1.26.0
 pytest==3.10.1
 python-dateutil==2.7.5
 pytz==2018.9
-PyUpSet==0.1.1.post7
 PyWavelets==1.0.1
 pywinpty==0.5.5
 PyYAML==3.12
@@ -85,7 +84,6 @@ toolz==0.9.0
 tornado==5.1.1
 tqdm==4.30.0
 traitlets==4.3.2
-UpSetPlot==0.1
 visitor==0.1.3
 wcwidth==0.1.7
 webencodings==0.5.1

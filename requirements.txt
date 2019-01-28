@@ -1,4 +1,3 @@
-aequitas==0.23.0
 aif360==0.2.0
 atomicwrites==1.2.1
 attrs==18.2.0
